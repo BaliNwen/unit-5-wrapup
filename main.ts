@@ -39,3 +39,4 @@ let task = ""
 let priorities: number[] = []
 let tasks: string[] = []
 taskJunkie()
+// note to mr derrick: no extensions really serve this? i mean timers would be useful but i had a tough time adding it afterwards
